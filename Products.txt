@@ -1,0 +1,5 @@
+101,monitor,10000
+102,keyboard,500
+103,mouse,350
+104,adapter,1000
+105,ram,3000
